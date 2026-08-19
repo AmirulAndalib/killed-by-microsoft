@@ -1893,5 +1893,16 @@
     ],
     "name": "Surface Duo",
     "type": "hardware"
+  },
+  {
+    "dateClose": "2026-06-30",
+    "dateOpen": "2016-03-11",
+    "description": "3D Viewer (formerly Mixed Reality Viewer and before that, View 3D) was a 3D computer graphics viewer and augmented reality application that was first included in Windows 10 1703.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_3D_Viewer",
+    "links": [
+      "https://www.xda-developers.com/microsoft-is-deprecating-a-windows-11-app-that-i-dont-remember-ever-using"
+    ],
+    "name": "3D Viewer",
+    "type": "app"
   }
 ]
