@@ -1915,5 +1915,38 @@
     ],
     "name": "Polyglot Notebooks",
     "type": "app"
+  },
+  {
+    "dateClose": "2026-04-24",
+    "dateOpen": "2017-09-21",
+    "description": ".NET Interactive was an engine and an API that allows to run, test, and edit code interactively, often combined with notebook technologies such as Jupyter.",
+    "link": "https://devblogs.microsoft.com/dotnet/net-interactive-is-here-net-notebooks-preview-2/",
+    "links": [
+      "https://github.com/dotnet/interactive"
+    ],
+    "name": ".NET Interactive",
+    "type": "app"
+  },
+  {
+    "dateClose": "2026-08-22",
+    "dateOpen": "2018-07-12",
+    "description": "Microsoft Whiteboard was a free multi-platform application, as well as an online service and a feature in Microsoft Teams, which simulates a virtual whiteboard and enables real-time collaboration between users.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Whiteboard",
+    "links": [
+      "https://www.windowscentral.com/software-apps/microsoft-whiteboard-is-not-shutting-down-but-you-still-may-lose-access-next-month"
+    ],
+    "name": "Microsoft Whiteboard",
+    "type": "app"
+  },
+  {
+    "dateClose": "2026-08-26",
+    "dateOpen": "2015-09-22",
+    "description": "GitHub Classroom was a free tool designed to help educators using GitHub distribute coding assignments, provide automated feedback, and manage coursework using GitHub repositories.",
+    "link": "https://en.wikipedia.org/wiki/GitHub_Codespaces#GitHub_Classroom",
+    "links": [
+      "https://web.archive.org/web/20150925121101/https://classroom.github.com/"
+    ],
+    "name": "GitHub Classroom",
+    "type": "service"
   }
 ]
