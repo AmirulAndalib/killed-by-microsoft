@@ -1948,5 +1948,16 @@
     ],
     "name": "GitHub Classroom",
     "type": "service"
+  },
+  {
+    "dateClose": "2026-10-05",
+    "dateOpen": "2025-02-01",
+    "description": "Teams Live Chat was a website chat widget that allowed businesses to connect with website visitors and route incoming conversations directly into Microsoft Teams.",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/03/17/new-live-chat-in-microsoft-teams-connecting-customers-and-businesses-effortlessly/",
+    "links": [
+      "https://learn.microsoft.com/en-us/microsoftteams/set-up-live-chat"
+    ],
+    "name": "Teams Live Chat",
+    "type": "service"
   }
 ]
